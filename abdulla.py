@@ -395,14 +395,14 @@ logo = ("""\033[1;32m
  /  /_\  \|    |  _/|    |  \|    |   /    |   |    |    /  /_\  \ 
 /    |    \    |   \|    `   \    |  /|    |___|    |___/    |    \
 \____|__  /______  /_______  /______/ |_______ \_______ \____|__  /
-        \/       \/        \/                 \/       \/       \/ 
+
 
 ───────────────────   \033
 __________________×______________________
   
   Tools Created  :  ABDULLA RAHAMAN
  
-  Github   :  https://github.com/abdullarahaman/Abdulla.txt/tree/main
+  Github   :  https://github.com/abdullarahaman
 
   Facebook : https://www.facebook.com/aww.eddy
   
@@ -424,15 +424,15 @@ class Main:
 		print(" [5] 2010-14 Cloning")
 		print(" [E] Exit Programming\n")
 		TALHA =input(" Choose : ")
-		if TALHA in ["1", "01"]:
+		if ABDULLA in ["1", "01"]:
 			File()
-		if TALHA in ["2", "02"]:
+		if ABDULLA in ["2", "02"]:
 			Public()
-		if TALHA in ["3", "03"]:
+		if ABDULLA in ["3", "03"]:
 			os.system("python Dump.py")
-		if TALHA in ["4", "04"]:
+		if ABDULLA in ["4", "04"]:
 			self.old()
-		if TALHA in ["5", "05"]:
+		if ABDULLA in ["5", "05"]:
 			self.old2()
 			exit()
 		else:
@@ -835,7 +835,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
 		])
 		sys.stdout.write(
-			"\r [ Talha ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
+			"\r [ ABDULLA ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
@@ -1262,7 +1262,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
 		])
 		sys.stdout.write(
-			"\r [TALHA ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
+			"\r [ABDULLA ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
